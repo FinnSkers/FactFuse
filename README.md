@@ -1,7 +1,7 @@
 <!-- FactFuse Modern README.md -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-org/factfuse/main/docs/assets/logo.svg" alt="FactFuse Logo" width="160"/>
+  <img src="https://github.com/FinnSkers/FactFuse/blob/fc3ff75b0d8879ab51fdff2fc113f3c120ae5649/20250607_1756_FactFuse%20Logo%20Design_simple_compose_01jx53z2wkf9tb4kqjscew2rwe.png" alt="FactFuse Logo" width="160"/>
   <h1 align="center" style="font-size:2.5rem; font-family: Inter, Arial, sans-serif;"><b>FactFuse</b></h1>
   <p align="center" style="font-size:1.15rem;"><em>Fuse Truth with Technology</em></p>
   <p align="center">
